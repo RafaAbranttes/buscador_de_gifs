@@ -1,3 +1,4 @@
+import 'package:buscadordegifs/ui/gif_page.dart';
 import "package:flutter/material.dart";
 import 'package:buscadordegifs/ui/home_page.dart';
 
